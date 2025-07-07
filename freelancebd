@@ -1,0 +1,125 @@
+<!DOCTYPE html><html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FreelanceBD.net - বাংলাদেশের লোকাল ও ফ্রিল্যান্সিং কাজের মার্কেটপ্লেস</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f3f4f6;
+    }
+    header {
+      background-color: #2563eb;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    .hero {
+      padding: 60px 20px;
+      text-align: center;
+      background-color: #e0f2fe;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      color: #1e3a8a;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+    }
+    .search-box {
+      max-width: 500px;
+      margin: auto;
+      display: flex;
+    }
+    .search-box input {
+      flex: 1;
+      padding: 10px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 4px 0 0 4px;
+    }
+    .search-box button {
+      padding: 10px 20px;
+      background-color: #2563eb;
+      border: none;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      border-radius: 0 4px 4px 0;
+    }
+    .buttons {
+      margin-top: 30px;
+    }
+    .buttons a {
+      text-decoration: none;
+      padding: 12px 24px;
+      margin: 5px;
+      display: inline-block;
+      background-color: #2563eb;
+      color: white;
+      border-radius: 6px;
+    }
+    .section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .categories, .jobs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .box {
+      width: 200px;
+      margin: 10px;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #1e3a8a;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>  <header>
+    <h1>FreelanceBD.net</h1>
+    <p>বাংলাদেশের প্রথম লোকাল ও ফ্রিল্যান্সিং কাজের মার্কেটপ্লেস</p>
+  </header>  <section class="hero">
+    <h1>চাকরি খুঁজুন অথবা কাজ পোস্ট করুন</h1>
+    <p>অনলাইন এবং লোকাল — সব ধরণের কাজ এক প্ল্যাটফর্মে</p>
+    <div class="search-box">
+      <input type="text" placeholder="কাজ খুঁজুন...">
+      <button>সার্চ</button>
+    </div>
+    <div class="buttons">
+      <a href="#">কাজ পোস্ট করুন</a>
+      <a href="#">ফ্রিল্যান্সার খুঁজুন</a>
+    </div>
+  </section>  <section class="section">
+    <h2>জনপ্রিয় বিভাগ</h2>
+    <div class="categories">
+      <div class="box">গ্রাফিক ডিজাইন</div>
+      <div class="box">ওয়েব ডেভেলপমেন্ট</div>
+      <div class="box">ডিজিটাল মার্কেটিং</div>
+      <div class="box">লোকাল সার্ভিস</div>
+      <div class="box">ভিডিও এডিটিং</div>
+    </div>
+  </section>  <section class="section">
+    <h2>নতুন পোস্ট করা কাজ</h2>
+    <div class="jobs">
+      <div class="box">লোগো ডিজাইন দরকার – বাজেট ৫০০ টাকা</div>
+      <div class="box">ওয়েবসাইট ফিক্সিং – ওয়ার্ডপ্রেস</div>
+      <div class="box">লোকাল ডেলিভারি বয় প্রয়োজন</div>
+      <div class="box">ডাটা এন্ট্রি জব – ঘরে বসে</div>
+    </div>
+  </section>  <footer>
+    <p>&copy; 2025 FreelanceBD.net | তৈরি করেছেন বাংলাদেশের মানুষের জন্য ❤️</p>
+  </footer></body>
+</html>
